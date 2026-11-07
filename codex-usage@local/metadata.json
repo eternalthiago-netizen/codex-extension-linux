@@ -1,0 +1,6 @@
+{
+  "uuid": "codex-usage@local",
+  "name": "Codex Usage",
+  "description": "Shows Codex's 5-hour and weekly limit usage in the top bar.",
+  "shell-version": ["45", "46", "47", "48", "49"]
+}
